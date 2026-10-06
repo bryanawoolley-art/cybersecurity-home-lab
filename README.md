@@ -19,12 +19,18 @@ Build a hands-on cybersecurity lab to develop practical skills in Linux administ
 - Fully updated
 - Clean baseline snapshot created
 
-### Ubuntu Server
+ ### Ubuntu Server
 - 4 GB RAM
 - 2 CPUs
 - 40 GB virtual disk
 - Ubuntu Server 26.04.1 LTS
-- Installation in progress
+- OpenSSH Server installed
+- SSH service verified active and running
+- Initial IPv4 address: 10.0.2.15
+- Server hostname: ubuntu-server-lab
+- Installation completed successfully
+
+
 
 ## Skills Being Practiced
 - Linux administration
